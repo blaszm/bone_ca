@@ -16,6 +16,6 @@ The macroscale simulation can be run by executing bone_macroscale_main.jl (very 
 
 1. [Multiscale modeling of cancellous bone considering full coupling of mechanical, electric and magnetic effects](https://doi.org/10.1007/s10237-021-01525-6)
 2. [Inverse modeling of cancellous bone using artificial neural networks](https://doi.org/10.1002/zamm.202100541)
-3. On the effects of a surrounding medium and phase split in coupled bone simulations (currently in press)
+3. [On the effects of a surrounding medium and phase split in coupled bone simulations](https://doi.org/10.1002/zamm.202200595)
 
 For further reading and information, visit my [Orcid](https://orcid.org/0000-0002-1126-3303).
